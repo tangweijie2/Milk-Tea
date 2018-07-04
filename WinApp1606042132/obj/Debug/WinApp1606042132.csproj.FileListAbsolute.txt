@@ -1,0 +1,34 @@
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe.config
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.pdb
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csprojResolveAssemblyReference.cache
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmChoose_Cls.resources
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmStart_Cls.resources
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.Properties.Resources.resources
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csproj.GenerateResource.Cache
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.exe
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.pdb
+F:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmShow_Cls.resources
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe.config
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.exe
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.pdb
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.pdb
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csprojResolveAssemblyReference.cache
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmChoose_Cls.resources
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmStart_Cls.resources
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.Properties.Resources.resources
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csproj.GenerateResource.Cache
+E:\C#\大作业\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmGoods_Cls.resources
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe.config
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.exe
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\bin\Debug\WinApp1606042132.pdb
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csprojAssemblyReference.cache
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmChoose_Cls.resources
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmGoods_Cls.resources
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.FrmStart_Cls.resources
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.Properties.Resources.resources
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csproj.GenerateResource.cache
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.csproj.CoreCompileInputs.cache
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.exe
+C:\Users\二娃\Desktop\曹怜霜 C#\ExpApp1606042132\WinApp1606042132\obj\Debug\WinApp1606042132.pdb
